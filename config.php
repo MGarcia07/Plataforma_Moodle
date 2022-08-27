@@ -17,8 +17,8 @@ $CFG->dboptions = array (
   'dbsocket' => '',
 );
 
-$CFG->wwwroot   = 'https://censalud.ues.edu.sv/moodle/';
-$CFG->dataroot  = 'moodledata';
+$CFG->wwwroot   = 'http://localhost/moodle';
+$CFG->dataroot  = 'C:\\xampp\\moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
