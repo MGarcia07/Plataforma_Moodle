@@ -1,0 +1,5 @@
+s:731:"<p>El multiplicador es el factor por el que la respuesta-numérica correcta se multiplica.
+<br />La primera unidad ('Unidad 1') tiene un valor multiplicador predeterminado de 1. Así, por ejemplo, si la respuesta-numérica correcta es de 5500 W y se establece W (vatio) como unidad en 'Unidad 1' que tiene 1 como multiplicador predeterminado, la respuesta correcta es 5500 W.
+<br />Si se agrega la unidad kW (kilovatio) con un multiplicador de 0,001, entonces 5,5kW será también una respuesta correcta. Esto significa que tanto 5500W como 5.5kW se consideran correctas.
+<br />Tenga en cuenta que el margen de error aceptado también se multiplica, por lo que un error permitido de 100 W se convertiría en un error de 0.1kW.</p>
+";
